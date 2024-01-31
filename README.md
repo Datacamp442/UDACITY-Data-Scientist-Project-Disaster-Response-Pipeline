@@ -29,10 +29,9 @@ The web app will also display visualizations of the data.
 ### models
 - *train_classifier.py*<br>
   Python script used to train a machine learning model using the cleaned and preprocessed data from the DisasterResponse.db database
-- *classifier.pkl*<br>
-  pickle file of the trained machine learning model that is created by the train_classifier.py script 
 - *ML Pipeline Preparation.ipynb*<br>
   Jupyter Notebook used to prepare ML pipeline
+
 
 ### app
 - *run.py*<br>
