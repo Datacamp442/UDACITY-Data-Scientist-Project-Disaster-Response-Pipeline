@@ -54,3 +54,16 @@ The web app will also display visualizations of the data.
 3. Go to http://0.0.0.0:3001/
 
 ## Screenshots
+The main page includes two visualizations.<br>
+<br>
+![image](https://github.com/Datacamp442/UDACITY-Data-Scientist-Project-2/assets/154692077/c1a88b17-ac19-4e1f-8748-d279898094cf)
+<br>
+Message "There is heavy rain"...<br>
+<br>
+![image](https://github.com/Datacamp442/UDACITY-Data-Scientist-Project-2/assets/154692077/75e6d695-372f-47f6-b069-3b5cdbb68eae)
+ <br>
+...leads to the categories "Related" and "Weather Related"<br>
+<br>
+![image](https://github.com/Datacamp442/UDACITY-Data-Scientist-Project-2/assets/154692077/2e294d4f-427e-426c-9795-18be459dc2dc)
+
+
